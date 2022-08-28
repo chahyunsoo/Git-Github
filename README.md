@@ -1,5 +1,5 @@
 # Git-Github
-<https://www.github./chahyunsoo/Git-Github/>
+<https://www.github.com/chahyunsoo/Git-Github/>
 ## 깃허브 연습하기
 - 깃 시작하기
 
