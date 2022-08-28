@@ -11,7 +11,7 @@
 
 
 - 브랜치 **분기 & 병합**
-- ![브랜치 병합](./images/branches merge.jpg)
+![브랜치 병합](./images/branches merge.png)
 
 
 - 깃허브로 백업하기
