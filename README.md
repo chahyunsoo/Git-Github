@@ -11,9 +11,12 @@
 
 
 - 브랜치 **분기 & 병합**
-- ![브랜치 병합](./images/branch.jpg)
+
+
+![브랜치 병합](./images/branch.jpg)
 
 
 - 깃허브로 백업하기
   - 초기 푸쉬 `$ git remote -u origin master`
   - 내려받기  `$ git pull`
+- **fork**와 **clone**의 차이를 알아보자
